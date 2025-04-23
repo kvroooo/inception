@@ -5,11 +5,12 @@ Commencons par décortiquer chaque nouvelles notions vus dans le sujet ^^'
 - Docker
 - Conteneurs
 - Docker image
-- Docker-compose
+- Docker compose
 
 
 ## Docker
 Plateforme de conteneurisation qui permet d'empaqueter des applications et leur dépendances dans un conteneur déployable dans n'importe quel environnement.
+
 
 ## Conteneur
 Les plateformes de conteneurisation permettent d'empaqueter des aplications pouvant être déployées 
@@ -31,6 +32,24 @@ Les images sont immuables une fois crées elles ne peuvent etre modifié.
 Cependant elles sont composé de couches d'images en lecture seule représentant chacune les modifications apportées à l'image.
 
 les images docker permettent donc de stocker les details de configuration de l'application.
+
+
+## Docker Compose
+Docker Compose est un outil permettant de configurer et executer tous les  conteneurs dont l'application aurait besoin dans un fichier de configuration YAML.
+
+
+## Alpine et Debian
+Alpine: Distribution linux très légère et minimaliste, 
+son image ISO pèse entre 46Mo (virtuel) et 627Mo  selon les versions
+et occupe entre 106Mo(virt) et 1,1Go (standard).
+Alpine est populaire pour son niveau de sécurité, 
+la création d'image conteneurs, les systèmes embarqués 
+et machines virtuelle. 
+
+Debian: distribution linux libre, nouvelles versions toujours stables
+adaptées aux vieux pc car pas très gourmads en ressources (en comparaison a ubuntu)
+
+
 
 ## Sources utiles
 https://www.ibm.com/fr-fr/think/topics/docker
