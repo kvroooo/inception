@@ -59,4 +59,6 @@ https://www.redhat.com/fr/topics/containers/un-conteneur-linux-quest-ce-que-cest
 https://aws.amazon.com/fr/compare/the-difference-between-docker-images-and-containers/
 https://www.nicelydev.com/docker
 
-[left][👈 Page précédente](../README.md)[/left][right]Démarrons [👉](./documentation.md){.btn .btn-lt}[/right]
+[👈 Page précédente](../README.md)
+
+[Démarrons 👉](./documentation.md)
