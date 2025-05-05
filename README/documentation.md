@@ -26,6 +26,7 @@ Les fichiers nécessaires a l'execution du conteneur sont fournis par une image 
 ## Image Docker
 Fichier executable qui contiennent toutes les instructions, pour executer un conteneur. Il contient toutes les bibliothèques dépendances et fichiers
 dont le conteneur aura besoint pour s'executer.
+
 Lorsqu'une image docker est executué, elle devient une instance du conteneur.
 
 Les images sont immuables une fois crées elles ne peuvent etre modifié.
@@ -49,6 +50,12 @@ et machines virtuelle.
 Debian: distribution linux libre, nouvelles versions toujours stables
 adaptées aux vieux pc car pas très gourmads en ressources (en comparaison a ubuntu)
 
+
+## NGINX
+
+## MariaDB
+
+## WordPress
 
 
 ## Sources utiles

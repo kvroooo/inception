@@ -1,3 +1,6 @@
+[👈 Page précédente](../README.md)
+
+
 # Démarrons
 
 Pour mettre en place cette "mini-infra" nous allons commencer par installer la machine virtuelle sur laquelle nous allons travailler en partant de l'avant-dernière version stable de l'os choisit.
@@ -18,16 +21,20 @@ editeur de texte,
 git
 
 
-## installation de Docker (Debian)
+## installation de Docker et Docker compose(Debian)
 
 https://docs.docker.com/engine/install/debian/
+https://doc.ubuntu-fr.org/docker
+https://docs.docker.com/compose/install/linux/
 
-
+Nous avons maintenant le nécessaire pour commencer a déployer les services dont nous aurons besoin.
 
 ### liens utils
 [partitionnement](https://www.debian.org/releases/trixie/armel/apc.fr.html)
 
+
 [doc debian](https://www.debian.org/releases/trixie/armel/index.fr.html)
 
-[👈 Page précédente](../README.md)
+
+[👉 Page suivante](../services.md)
 
