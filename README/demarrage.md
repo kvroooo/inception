@@ -34,5 +34,5 @@ Nous avons maintenant le nécessaire pour commencer a déployer les services don
 [doc debian](https://www.debian.org/releases/trixie/armel/index.fr.html)
 
 
-[👉 Page suivante](../services.md)
+[👉 Page suivante](./services.md)
 
