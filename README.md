@@ -6,3 +6,8 @@ Projet consistant à dévcouvrir *Docker* en réalisant une *mini-infrastructure
 2. [Démarrons le projet](README/demarrage.md)
 3. [Les services](README/services.md)
 
+## TO DO LISTv
+	- installer docker <- AUJOURD'HUI
+	- Documentation sur chaques services <- AUJOURD'HUI
+	- deployer les services <- DIMANCHE
+	- docker-compose pour connecter les services entre eux <-DIMANCHE
