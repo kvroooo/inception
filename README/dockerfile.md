@@ -9,7 +9,8 @@ capture la différence des fichiers puis la stock comme une nouvelle couche.
 
 Un dockerfile doit toujours commencer avec l'instruction FROM, qui va définir l'image de base.
 
-*FROM [--platform]<platform> <image>[:<tag>] [AS <name>]
+```
+FROM [--platform]<platform> <image>[:<tag>] [AS <name>]
  FROM debian 
- FROM debian:bullseye*
- 
+ FROM debian:bullseye 
+ ```
