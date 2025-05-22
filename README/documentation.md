@@ -52,7 +52,7 @@ Au départ concu pour répondre au problème de limitation des serveurs sur de t
 	- Caching HTTP => stockage des reponses associé a des requetes localement afin de reutiliser la reponse stocké afin d'améliorer le temps de réponse 
 	- suppor ssl et tls => communication sécurisées client/serveur
 
-	*TLSv1.2/v1.3*:  Le TLS Transport Layer Securituy est un protocole de sécurité concu pour la confidentialité et la sécurité des données sur les communications internet ainsi que le chiffrement d'autres communications (mails, messagerie..)
+	*TLSv1.2/v1.3*:  Le TLS Transport Layer Securituy est un protocole de sécurité concu pour la confidentialité et la sécurité des données sur les communications internet ainsi que le chiffrement d'autres communications (mails, messagerie..). Dans notre contexte, TLS permet aux communications sur Internet d'être privée et sécuriséesht. Voir un https et/ou un cadenas visible au debut de l'url nous informe que la connexion utilise TLS.
 
 ## MariaDB
 Système de gestion de base de données relationnelle (SGBDR) gratuit et open source lancé en 2009 par le fondateur de MySQL Michael Widenius  après le rachat de cette dernière par Oracle Corp.

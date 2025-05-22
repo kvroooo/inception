@@ -1,0 +1,7 @@
+services:
+  nginx:
+    build: requirements/nginx/.services
+    container_name: container-nginx
+    image: nginx
+    ports: 
+      - "443:443"
